@@ -1,3 +1,5 @@
 /** My First Test Program for Git **/
 
 echo "Text 1 - Hello World"
+
+echo "Text 2 - Hello Game Changer"
