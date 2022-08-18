@@ -1,0 +1,3 @@
+/** My First Test Program for Git **/
+
+echo "Text 1 - Hello World"
